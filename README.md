@@ -34,6 +34,3 @@
 6. By clicking any news story user will be redirected to single article page where he can read whole article.
 
 ***
-### Pranit Jogwe
-- **Github** : https://github.com/pranit95
-
